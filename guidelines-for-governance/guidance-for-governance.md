@@ -10,13 +10,7 @@ This document aims to provide a set of guidelines for decentralised autonomous g
 
 The following section (§2) will specify numerous social governance guidelines that could be drawn from to create order within a non-hierarchical, decentralised social structure. These guidelines may or may not work and are simply suggestions made by the author and relate to the direct experience of the author.
 
-*NOTE: POTENTIALLY REMOVE THE NEXT NOTE PARAGRAPH.*
-
-*Note: some of the nomenclature, concepts and ideas may or may not be original. For example, the notion of a reflective social structure may be novel or may not be. Furthermore, whilst it would appear that such structures may be hierarchical in nature, it could be argued that the reflective properties tied to processes between social groups inherent to the model simply provide the appearance of hierarchy. There are likely many more structural properties to consider that may or may not be responsible for a tendency to centralise or enable the emergence of hierarchy.*
-
 ### 2. Properties & Processes
-
-*TODO: Add section introduction.*
 
 #### 2.1. Structure
 
@@ -98,7 +92,21 @@ Collective publication is the process by which an approved piece of collaborativ
 
 #### 2.10. Issues
 
-*TODO: FINISH SECTION*
+**Maximal Transparency**
+
+Effective, intuitive & free tooling that enables maximal transparency at scale is fairly difficult to find. Git does exist and Git is truly decentralised (although, having a central repository on GitHub is moving towards centralisation). However, Git & GitHub may have a steeper learning curve to them than say Miro for effective collaboration. All the tools we have reviewed have their positives and negatives, are mostly centralised (client-server architecture) and do not easily scale.
+
+**Suboptimal Collaboration**
+
+Tooling for effectively (optimally) collaborating in a peer-to-peer fashion within domains other than software development may not exist yet.
+
+**Incentive Mechanisms**
+
+Effectively getting individuals to participate and collaborate. Economic self-interest (whilst important insofar as money is a requirement to live) is not the most effective method of maximising performance or encouraging engagement.
+
+**Communication Issues**
+
+As an example, text can be misleading. People have a tendency to (on occasion) misinterpret the intent of others when reading messages sent as text via a service such as discord.
 
 #### 2.11. Potential Solutions
 
@@ -159,28 +167,6 @@ In Proceedings of the 2005 international ACM SIGGROUP conference on Supporting g
 Interprofessional collaboration in research, education, and clinical practice: working together for a better future.     
 Journal of Chiropractic Education, 29(1), pp.1-10.
 
-
-
 ### Footnotes
 
 *TODO: FINISH SECTION*
-
-<hr />
-
-**General Notes**
-
-* Transparency is maximised, such that anybody within the organisation can see what anybody else is doing.
-	* Issue: Effective, Intuitive, Free tooling is difficult to find that allows for maximal transparency.
-	* Issue: Given the nature of DAOs (and the lack of research on them), current existing tooling may be suboptimal.
-* Every member is encouraged to participate.
-	* Issue: Incentive mechanisms.
-	* Issue: Difference In opinion.
-* Every member is encouraged to collaborate.
-	* Issue: Incentive mechanisms.
-* Members are encouraged to request feedback (peer-review), typically within their own Working Groups initially.
-* When a working group is ready, they should announce their work globally.
-* When a working group is happy with their work, it should be globally announced and requested to be published by the DAO.
-
-Unfortunately, the general rule of thumb appears to be silence equates to approval. However, it is difficult to make progress, this is why it may be considered better to ask for forgiveness rather than permission (leadership quality), but this simply does not gel within a governance framework. Ideally, we want to minimise conflict. However, simply being agreeable or ‘voting with no preference’ may be detrimental.
-
-Understanding how to best work together as an organisation within a distributed, flat model appears to be quite difficult. This is why you do see hierarchies spontaneously emerge within complex systems (within nature).
